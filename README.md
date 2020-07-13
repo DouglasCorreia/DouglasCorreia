@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Front-end Developer, working in agencies in the technology and marketing sectors. Developing websites, email marketing, layouts and SEO OnPage Analysis.
+Front-end Developer, working in agencies in the technology and marketing sectors. Developing websites, email marketing, creating layouts and SEO OnPage Analysis.
 
 <!--
 **DouglasCorreia/DouglasCorreia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
