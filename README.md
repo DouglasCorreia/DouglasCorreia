@@ -4,7 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I'm a Front-end Developer, working in agencies in the technology and marketing sectors. Developing websites, e-commerces (Wake Commerce, Tray FBits, Tray Commerce, UAPPI, VNDA e YAMPI), e-mail marketing, creating layouts and SEO onpage analysis.
+I'm a Front-End Developer with nearly 8 years of experience turning ideas into high-performance e-commerce platforms that deliver real business results.
+
+I specialize in building digital experiences that convert:
+
+. Developing responsive interfaces for platforms like Wake Commerce, Tray Commerce, Olist VNDA, Yampi, and Nuvem Shop.
+. Performance optimization and technical SEO implementation to maximize conversions and retention.
+. Creating corporate websites, blogs, and landing pages focused on the user journey.
+
+My current tech stack includes React, JavaScript, TypeScript, and Tailwind CSS for modern development, alongside expertise in WordPress, Liquid, and Scriban for specific platforms. I work with agile methodologies (Scrum/Kanban) and tools such as Git, Webpack, Vite, and Figma.
+
+I have a strong background in technical SEO and UX/UI, with certifications in HTML5/CSS3, advanced SEO, and front-end projects. My code is always organized, scalable, and focused on product sustainability.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [https://www.linkedin.com/in/douglas-rocha/](mailto:https://www.linkedin.com/in/douglas-rocha/)
